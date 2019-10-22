@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
-
+//ấhdjasdasjdaslk
 /*----DSLK đơn-----*/
 struct Node {
 	int data;
